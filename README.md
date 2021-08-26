@@ -21,12 +21,18 @@
 ## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="60">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
  
-
-
-
-
-
 <br>
+<br>
+
+## Github Stats
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=busrabhur&hide=stars,issues&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
 
 
 
