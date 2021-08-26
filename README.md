@@ -14,12 +14,14 @@
 
 
 ## Top Languages
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=radical&layout=compact" alt="busrabhur :: Top Langs" /></p>
 
 
 ## Github Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=busrabhur&hide=stars,issues&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=busrabhur&hide=issues,prs&show_icons=true&theme=radical)
+
+<br>
 
 ## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="70">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
