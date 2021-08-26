@@ -1,9 +1,9 @@
-## Hi, I'm Büşra !<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="75">
+## Hi , I am Büşra<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="60">
 
-- I am a computer engineering student at Pamukkale University <br>
-- I am currently learning 'PHP' and 'javaScript'
+🔭 I am a computer engineering student at Pamukkale University <br>
+🌱 I am currently learning 'PHP' and 'javaScript'
 
-	<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="150" height="150">
+<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="150" height="150">
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## Visitors <img src="https://media.giphy.com/media/dWUP6o0OAhGS2WXSqt/giphy.gif?cid=ecf05e47q5zemwvqxw2amlhiu22nk17nylpwavjm8b9o8t7s&rid=giphy.gif&ct=s" width="70">
+## Visitors <img src="https://media.giphy.com/media/jUPZPWvZ8IJawJqWSx/giphy.gif?cid=ecf05e473cr88cv8bhpgkrzqi2jqx4rn3nqe2kd0f838hcja&rid=giphy.gif&ct=s" width="60">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
   
 
