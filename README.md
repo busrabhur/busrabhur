@@ -1,4 +1,4 @@
-<h1> Hi, I'm Büşra !<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="90"></h1>
+<h1> Hi, I'm Büşra !<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="75"></h1>
 
 <!--
 **busrabhur/busrabhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
