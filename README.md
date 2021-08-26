@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2> Hi, I'm Büşra ! <img src="https://tenor.com/view/hello-cat-hello-waving-hi-gif-16242181" width="50"></h2>
 
 <!--
 **busrabhur/busrabhur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
