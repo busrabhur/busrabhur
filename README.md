@@ -12,11 +12,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busrabhur/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:busrabuhur20@gmail.com)
 
+<br> 
 
 ## Top Languages
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
 
-<br>
+<br><br>
 
 ## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="70">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
