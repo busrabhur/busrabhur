@@ -14,7 +14,7 @@
 
 <br>
 
-## Visitors <img src="https://media.giphy.com/media/jUPZPWvZ8IJawJqWSx/giphy.gif?cid=ecf05e473cr88cv8bhpgkrzqi2jqx4rn3nqe2kd0f838hcja&rid=giphy.gif&ct=s" width="60">
+## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="50">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
   
 
