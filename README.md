@@ -1,12 +1,26 @@
 ## Hi, I'm Büşra !<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="75">
 
+- I am a computer engineering student at Pamukkale University <br>
+- I am currently learning 'PHP' and 'javaScript'
 
+	<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="150" height="150">
+
+<br>
+
+## Social Media
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/busrabhur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busrabhur/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:busrabuhur20@gmail.com)
----
-## Visitors
-<p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
+
+<br>
+
+## Visitors <img src="https://media.giphy.com/media/dWUP6o0OAhGS2WXSqt/giphy.gif?cid=ecf05e47q5zemwvqxw2amlhiu22nk17nylpwavjm8b9o8t7s&rid=giphy.gif&ct=s" width="70">
+  <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
+  
+
+
+
+
 
 
 ## Top Languages
