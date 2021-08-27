@@ -1,4 +1,5 @@
-## Hello there, I am Büşra<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="40">
+## Hello there, I am Büşra 👋
+<!---<img src="https://media.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif?cid=ecf05e473o7ykdv5n7vye8fr7vr9f53ybvxd2f2bdpwzawbp&rid=giphy.gif&ct=s" width="40"> -->
 
 🔭 I am a computer engineering student at Pamukkale University <br>
 🌱 I am currently learning 'PHP' and 'javaScript'
