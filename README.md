@@ -3,7 +3,7 @@
 🔭 I am a computer engineering student at Pamukkale University <br>
 🌱 I am currently learning 'PHP' and 'javaScript'
 
-<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="300" height="300">
+<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="250" height="250">
 
 <br>
 
@@ -15,9 +15,10 @@
 <br> 
 <br> 
 <br>
-<br> 
+<br>
 
-## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="60">
+
+## Visitors  <img align="left" src="https://media.giphy.com/media/mFqsIByJIF8lBpEiw7/giphy.gif?cid=ecf05e47r1gfyxt4s4uniascyag5fw0qumbniphs43ur5q0i&rid=giphy.gif&ct=s" width="55">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
 
 <br><br>
