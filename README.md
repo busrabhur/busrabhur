@@ -3,7 +3,7 @@
 🔭 I am a computer engineering student at Pamukkale University <br>
 🌱 I am currently learning 'PHP' and 'javaScript'
 
-<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="300" height="300">
+<img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="330" height="330">
 
 <br>
 
@@ -25,7 +25,7 @@
 
 ## Top Languages
 <!--<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p> -->
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&layout=compact" alt="busrabhur :: Top Langs" /></p>
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
 
 
  
