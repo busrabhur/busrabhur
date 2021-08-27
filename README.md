@@ -26,7 +26,7 @@
 
 <br><br>
 
-## Top Languages
+## Most Used Languages
 <!--<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p> -->
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
 
