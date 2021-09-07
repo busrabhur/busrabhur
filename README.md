@@ -21,10 +21,10 @@
 <br>
 
 
-## Profile Views  <img align="left" src="https://media.giphy.com/media/aA3mUKSrVr7gI/giphy.gif?cid=ecf05e47ahq84p2mqa575xdpf4q3gixwo2i0khzr4lk5psbd&rid=giphy.gif&ct=s" width="70">
+<!--## Profile Views  <img align="left" src="https://media.giphy.com/media/aA3mUKSrVr7gI/giphy.gif?cid=ecf05e47ahq84p2mqa575xdpf4q3gixwo2i0khzr4lk5psbd&rid=giphy.gif&ct=s" width="70">
   <p><img src="https://profile-counter.glitch.me/{busrabhur}/count.svg" alt="busrabhur :: Visitor's Count" /></p>
 
-<br><br>
+<br><br> -->
 
 ## Most Used Languages
 <!--<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p> -->
