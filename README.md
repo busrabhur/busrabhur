@@ -6,8 +6,6 @@
 <br>
 <img align ="right" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="310" height="310">
 
-<br>
-<br>
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/busrabhur)
@@ -15,7 +13,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:busrabuhur20@gmail.com)
 
 <br> 
-<br> 
+
 
 
 
