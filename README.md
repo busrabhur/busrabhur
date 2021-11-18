@@ -1,4 +1,4 @@
-## Hi ,I am Büşra
+## Hi,I am Büşra
 <!---<img src="https://icon-library.com/images/php-icon-png/php-icon-png-0.jpg" width="40"> -->
 
 🎈I am a computer engineering student at Pamukkale University <br>
