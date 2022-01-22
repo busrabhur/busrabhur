@@ -1,4 +1,4 @@
-##  Hi there,I am Büşra  <img align ="" src="https://media3.giphy.com/media/3rZJ2YWZsvXiKO5TWL/giphy_s.gif?cid=ecf05e47se8ws6tuscfci5ds4wtduc1dicuokaolufcv1w65&rid=giphy_s.gif&ct=s" width="80" height="80"> 
+##  Hi there,I am Büşra  <img align ="" src="https://media0.giphy.com/media/PhI8GuhO8QiPnuBbAP/giphy.gif?cid=ecf05e47y54k0amvfh5zjqz4vq7o4bn3namy7p7ea1uaxuvg&rid=giphy.gif&ct=s" width="100" height="100"> 
 
 
 
