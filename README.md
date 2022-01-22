@@ -5,7 +5,7 @@
 <img align ="" src="https://media1.giphy.com/media/5BK1saXmLLWWvuA1J5/giphy.gif?cid=ecf05e47kleqywozs0df8iepo6myz5f427m606zetk5dntsq&rid=giphy.gif&ct=s" width="85" height="85">I am a computer engineering student at Pamukkale University .<br>
 
 
-<img align ="" src="https://media4.giphy.com/media/kU5svSiC0HnFrQ9ZCf/giphy.gif?cid=ecf05e47d2m2bi6jtckba7jqgkk250lxu1et85idfj02s695&rid=giphy.gif&ct=s" width="85" height="85">I am currently learning C# <br><br><br>
+<img align ="" src="https://media1.giphy.com/media/5BK1saXmLLWWvuA1J5/giphy.gif?cid=ecf05e47kleqywozs0df8iepo6myz5f427m606zetk5dntsq&rid=giphy.gif&ct=s" width="85" height="85">I am currently learning C# <br><br><br>
 
 
 
