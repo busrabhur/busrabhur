@@ -1,17 +1,27 @@
-## Hi there,I am Büşra
-<!---<img src="https://icon-library.com/images/php-icon-png/php-icon-png-0.jpg" width="40"> -->
+##  Hi there,I am Büşra  <img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="70" height="70"> 
 
-🎈I am a computer engineering student at Pamukkale University <br>
-🎈I am currently learning C#
+
+
+<img align ="" src="https://media1.giphy.com/media/5BK1saXmLLWWvuA1J5/giphy.gif?cid=ecf05e47kleqywozs0df8iepo6myz5f427m606zetk5dntsq&rid=giphy.gif&ct=s" width="85" height="85">I am a computer engineering student at Pamukkale University .<br>
+
+
+<img align ="" src="https://media4.giphy.com/media/kU5svSiC0HnFrQ9ZCf/giphy.gif?cid=ecf05e47d2m2bi6jtckba7jqgkk250lxu1et85idfj02s695&rid=giphy.gif&ct=s" width="85" height="85">I am currently learning C# <br><br><br>
+
+
+
+## Most Used Languages
+
+
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
 <br>
-<img align ="" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="310" height="310">
+
+
+<!---<img align ="" src="https://media1.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=ecf05e470msnuklquyglq12k8vzz4bfz28f1t24mkrd851l3&rid=giphy.gif&ct=s" width="310" height="310"> --->
 
 
 <!--[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/busrabhur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://tr.linkedin.com/in/busrabuhur?trk=public_profile_browsemap)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:busrabuhur20@gmail.com) -->
-
-
 
 
 <br>
@@ -23,7 +33,7 @@
 
 
 <!--<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p> -->
-<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrabhur&langs_count=10&theme=tokyonight&layout=compact" alt="busrabhur :: Top Langs" /></p>
+
 
 
 
