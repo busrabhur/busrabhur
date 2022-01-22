@@ -1,11 +1,11 @@
-##  Hi there,I am Büşra  <img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="80" height="80"> 
+##  Hi there,I am Büşra  <img align ="" src="https://media3.giphy.com/media/3rZJ2YWZsvXiKO5TWL/giphy_s.gif?cid=ecf05e47se8ws6tuscfci5ds4wtduc1dicuokaolufcv1w65&rid=giphy_s.gif&ct=s" width="80" height="80"> 
 
 
 
-<img align ="" src="https://media1.giphy.com/media/5BK1saXmLLWWvuA1J5/giphy.gif?cid=ecf05e47kleqywozs0df8iepo6myz5f427m606zetk5dntsq&rid=giphy.gif&ct=s" width="85" height="85">I am a computer engineering student at Pamukkale University .<br>
+<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="85" height="85">I am a computer engineering student at Pamukkale University .<br>
 
 
-<img align ="" src="https://media1.giphy.com/media/5BK1saXmLLWWvuA1J5/giphy.gif?cid=ecf05e47kleqywozs0df8iepo6myz5f427m606zetk5dntsq&rid=giphy.gif&ct=s" width="85" height="85">I am currently learning C# <br><br><br>
+<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="85" height="85">I am currently learning C# <br><br><br>
 
 
 
