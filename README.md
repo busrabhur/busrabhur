@@ -3,7 +3,9 @@
 <br>
 <img align ="right" src="https://media0.giphy.com/media/PhI8GuhO8QiPnuBbAP/giphy.gif?cid=ecf05e47y54k0amvfh5zjqz4vq7o4bn3namy7p7ea1uaxuvg&rid=giphy.gif&ct=s" width="125" height="125">
 
-<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="80" height="80">I am a computer engineering student at Pamukkale University. I am currently learning  C# & .Net <br>
+ 🔭 I am a computer engineering student at Pamukkale University.
+ 
+ 🌱 I am currently learning  C# & .Net <br><br><br>
 
 
 <!--<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="60" height="60">I am currently learning  C#-->
