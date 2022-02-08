@@ -27,7 +27,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:busrabuhur20@gmail.com) -->
 
 
-## My contribution graph <br>
+## My Contribution Graph <br>
 <!--![snake gif](https://github.com/busrabhur/busrabhur/blob/output/github-contribution-grid-snake.gif) -->
 
 ![Snake animation](https://github.com/busrabhur/busrabhur/blob/output/github-contribution-grid-snake.svg)
