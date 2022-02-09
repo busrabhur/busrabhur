@@ -1,10 +1,10 @@
 ##  Hi there, I am Büşra :) 
 
 <br>
-<img align ="right" src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47w5z7avgje1jml27jyba4w6jnyo1ehwu3om4m9mch&rid=giphy.gif&ct=s" width="120" height="120">
+<img align ="right" src="https://media0.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47w5z7avgje1jml27jyba4w6jnyo1ehwu3om4m9mch&rid=giphy.gif&ct=s" width="100" height="100">
  🔭 I am a computer engineering student at Pamukkale University.
  
- 🌱 I am currently learning  C# & .Net <br>
+ 🌱 I am currently learning  C# & .Net 
 
 
 <!--<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="60" height="60">I am currently learning  C#-->
