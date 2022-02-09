@@ -1,7 +1,7 @@
 ##  Hi there, I am Büşra :) 
 
 <br>
-<img align ="right" src="https://media0.giphy.com/media/PhI8GuhO8QiPnuBbAP/giphy.gif?cid=ecf05e47y54k0amvfh5zjqz4vq7o4bn3namy7p7ea1uaxuvg&rid=giphy.gif&ct=s" width="100" height="100">
+<img align ="right" src="https://media2.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e4725pe2xbult2z7k5v7gh2uxsr2qzqw146pt7tocb3&rid=giphy.gif&ct=s" width="200" height="200">
  🔭 I am a computer engineering student at Pamukkale University.
  
  🌱 I am currently learning  C# & .Net <br>
