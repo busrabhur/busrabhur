@@ -1,7 +1,7 @@
 ##  Hi there, I am Büşra.
 
 <br>
- 🌱 I am currently learning  JS, React JS 
+ 🌱 I am currently learning  JS, React JS  <br> <br>
 
 
 <!--<img align ="" src="https://media0.giphy.com/media/xT9Igr21uuBKoANjck/giphy.gif?cid=ecf05e47cw2rpqzhwio7vy7r9slgcr8ovbybbbilwh9thweu&rid=giphy.gif&ct=s" width="60" height="60">I am currently learning  C#-->
